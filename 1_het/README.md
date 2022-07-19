@@ -22,6 +22,7 @@ Class Vek := Vek_mk {
   vek_1 : forall u : Vektor, mul_v 1 u = u;
   vek_2 : forall (λ : Skalar) (u v : Vektor), mul_v λ (add_v u v) = add_v (mul_v λ u) (mul_v λ v) ;
   vek_3 : forall (λ μ : Skalar) (u : Vektor), mul_v (λ + μ) u = add_v (mul_v λ u) (mul_v μ u) ;
+  vek_4 : forall (λ μ : Skalar) (u : Vektor), mul_v λ (mul_v μ u) = mul_v (λ * μ) u ;
 }.
 
 Notation "u ⊕ v" := (add_v u v) (at level 90, left associativity) : type_scope.
