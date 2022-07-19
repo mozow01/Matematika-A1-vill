@@ -17,7 +17,7 @@ Class Vek := Vek_mk {
                   v w);
   null_vek:       forall u : Vektor, add_v nul_v u = u /\ add_v u nul_v = u;
   ellentett_vek:  forall u : Vektor, add_v (neg_v u) u = nul_v /\ add_v u 
-   (neg_v u) = nul_v;
+                  (neg_v u) = nul_v;
 
   vek_1 : forall u : Vektor, mul_v 1 u = u;
   vek_2 : forall (λ : Skalar) (u v : Vektor), mul_v λ (add_v u v) = add_v (mul_v λ u) (mul_v λ v) ;
