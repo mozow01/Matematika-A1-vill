@@ -1,10 +1,11 @@
+# Koordinátamentes vektorok
 
 <img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vektor_1.png" width=400>
 
 ````coq
 Class Vek := Vek_mk {
   Vektor : Type;
-  Skalar := nat;
+  Skalar := nat; (*itt nat helyett valójában a valós számok!!! vannak, de hát, annyi baj legyen*)
 
   add_v : Vektor -> Vektor -> Vektor;
   mul_v : Skalar -> Vektor -> Vektor;
