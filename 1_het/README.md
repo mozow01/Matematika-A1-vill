@@ -45,6 +45,6 @@ Qed.
 ````
 ## Egyértelműségi lemma
 
-## A paralelogramma átlói felezik pontban metszik egymást
+## A paralelogramma átlói felezik egymást
 
 ## Egyenes egyenlete
