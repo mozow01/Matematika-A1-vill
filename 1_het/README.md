@@ -43,3 +43,8 @@ rewrite asszoc.
 auto.
 Qed.
 ````
+## Egyértelműségi lemma
+
+## A paralelogramma átlói felezik pontban metszik egymást
+
+## Egyenes egyenlete
