@@ -10,9 +10,9 @@ Időpont és hely. 1. zh: 2. zh:
 
 A _vizsga megkezdésének_ feltétele: az aláírás megléte.
 
-A _vizsga teljesítésének_ feltétele: a minimumpontszám elérése, azaz legalább 24 pont a 60-ból. 
+A _vizsga teljesítésének_ feltétele: a minimumpontszám elérése, azaz **legalább 24 pont** a 60-ból. 
 
-A _vizsgajegy_ meghatározása. 
+A _vizsgajegy_ meghatározása. **v** az írásbeli vizsga pontszáma, **z** a két zh pontszámának számtani közepe.
 
 
 
