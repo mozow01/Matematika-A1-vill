@@ -1,9 +1,9 @@
-# Matematika A1 - Analízis BMETE90AX00 vill. 
+# Matematika A1 - Analízis BMETE90AX00 vill
 
 ## Tárgykövetelmények
 
-### Az _aláírás_ feltételei
-1. Mindként zh teljesítése, azaz **legaláss 18 pont** elérése a 60-ból külön mindkét zh-n. 
+### Az _aláírás_ megszerzésének feltételei
+1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
 
 Javítási lehetőség: egy pótzh bármelyik zh-ból, ill. ha ezek közül pontosan egy nem sikerül, akkor aláíráspótló vizsga abból a zh-ból. 
