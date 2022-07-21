@@ -8,9 +8,11 @@ Javítási lehetőség: egy pótzh bármelyik zh-ból, ill. ha ezek közül pont
 
 Időpont és hely. 1. zh: 2. zh:
 
-_Vizsga_ teljesítésének feltételei. 1. Aláírás megléte. 2. Az írásbeli vizsgán a minimumpontszám elérése (itt a minimumpontszám 24/60 pont). 
+A _vizsga megkezdésének_ feltétele: az aláírás megléte.
 
-A _vizsgajegy_ meghatározása.  
+A _vizsga teljesítésének_ feltétele: a minimumpontszám elérése, azaz legalább 24 pont a 60-ból. 
+
+A _vizsgajegy_ meghatározása. 
 
 
 
