@@ -16,7 +16,8 @@ Az aláírás megléte.
 ### A _vizsga teljesítésének_ feltétele
 A minimumpontszám elérése, azaz **legalább 24 pont** a 60-ból. 
 
-### A _vizsgajegy_ meghatározása **v** az írásbeli vizsga pontszáma, **z** a két zh pontszámának számtani közepe. Ekkor a kollokviumpontszám: **n**
+### A _vizsgajegy_ meghatározása
+**v** az írásbeli vizsga pontszáma, **z** a két zh pontszámának számtani közepe. Ekkor a kollokviumpontszám: **n**
 = max { **v** , **(v + z)/2** } a neptunbí beírt jegy: 
 
 elégtelen (1), ha **v**<24; 
