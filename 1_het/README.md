@@ -43,18 +43,6 @@ rewrite asszoc.
 auto.
 Qed.
 ````
-## Egyértelműségi lemma
+## Témák 
 
-## A paralelogramma átlói felezik egymást
-
-## Egyenes egyenlete
-
-## Skaláris szorzat és tulajdonságai
-
-## Háromszög magasságpontjának kifejezése
-
-## Vektoriális szorzat és tulajdonságai
-
-## A szinusztétel bizonyítása
-
-## Paralelepipedon térfogata
+Vektorműveleket, egyértelműségi lemma, a paralelogramma átlói felezik egymást, az egyenes paraméteres vektoregyenlete, skaláris szorzat és tulajdonságai, a háromszög magasságpontjának kifejezése, a vektoriális szorzat és tulajdonságai, a szinusztétel bizonyítása, a paralelepipedon térfogata
