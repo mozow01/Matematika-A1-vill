@@ -6,7 +6,7 @@
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
 
-Javítási lehetőség: egy pótzh bármelyik zh-ból, ill. ha ezek közül pontosan egy nem sikerül, akkor aláíráspótló vizsga abból a zh-ból. 
+Javítási lehetőség: mindkét zh pótolható a pótzh-n, ill. ha ezek közül pontosan egy nem sikerül, akkor aláíráspótló vizsga abból a zh-ból. 
 
 Időpont és hely. 1. zh: 2. zh:
 
