@@ -16,9 +16,11 @@ Az aláírás megléte.
 ### A _vizsga teljesítésének_ feltétele
 A minimumpontszám elérése, azaz **legalább 24 pont** a 60-ból. 
 
+Javítási lehetőség: a vizsga újbóli felvétele (a TVSZ szerint meghatározott módon).
+
 ### A _vizsgajegy_ meghatározása
 **v** az írásbeli vizsga pontszáma, **z** a két zh pontszámának számtani közepe. Ekkor a kollokviumpontszám: **n**
-= max { **v** , **(v + z)/2** } a neptunbí beírt jegy: 
+= max { **v** , **(v + z)/2** } a Neptunba beírt jegy: 
 
 elégtelen (1), ha **v**<24; 
 
@@ -30,7 +32,7 @@ jó (4),        ha 24≦**v** és 42≦**n**<51;
 
 jeles (5),     ha 24≦**v** és 51≦**n**
 
-
+Javítási lehetőség, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgalehetőség jelzése a gyakorlatvezetőnél.
 
 
 
