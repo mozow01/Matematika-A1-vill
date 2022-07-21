@@ -1,4 +1,4 @@
-# Koordinátamentes vektorok
+# Vektorok koordinátamentesen 
 
 <img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vektor_1.png" width=400>
 
