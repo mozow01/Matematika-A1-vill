@@ -1,5 +1,15 @@
 # Matematika A1 - Analízis BMETE90AX00 vill
 
+## Zh információk
+
+1. zh
+
+2. zh
+
+## Jegyzetek
+
+https://math.bme.hu/~asimon/
+
 ## Tárgykövetelmények
 
 ### Az _aláírás_ megszerzésének feltételei
@@ -7,8 +17,6 @@
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
 
 Javítási lehetőség: mindkét zh pótolható a pótzh-n, ill. ha ezek közül pontosan egy nem sikerül, akkor aláíráspótló vizsga abból a zh-ból. 
-
-Időpont és hely. 1. zh: 2. zh:
 
 ### A _vizsga megkezdésének_ feltétele
 Az aláírás megléte.
