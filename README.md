@@ -8,6 +8,8 @@
 
 ## Jegyzetek
 
+A több mint 20 évre visszanyúló Serény György / Simon András -féle hagyományhoz ragaszkodunk. Az ottani jegyzetek, feladatsorok használhatók a felkészüléshez. 
+
 Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
 
 VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a nem PJ jelű feladatsorok)
