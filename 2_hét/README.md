@@ -4,4 +4,4 @@
 
 ## Témák
 
-Bázis, koordinátarendszer, ortonormált bázis, műveletek koordinátareprezentációja, az egyenes paraméteres egyenletrendszere, a sík egyenlete, térelemek külcsönös helyzete, elemi egybevágósági transzformációk, távolság, Kronecker-féle delta és Levi-Civita-féle epszilon szimbólumok. 
+Bázis, koordinátarendszer, ortonormált bázis, műveletek koordinátareprezentációja, az egyenes paraméteres egyenletrendszere, a sík egyenlete, térelemek kölcsönös helyzete, elemi egybevágósági transzformációk, távolság, Kronecker-féle delta és Levi-Civita-féle epszilon szimbólumok. 
