@@ -52,4 +52,4 @@ Vektorműveleket, egyértelműségi lemma, a paralelogramma átlói felezik egym
 <img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_2.png" width=400> | vektor mint ekvivalenciaosztály, reprezentáns, összeadás, számmal való szorzás
 <img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_3.png" width=400> | algebrai számolási szabályok (összadásaxiómák)
 <img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_4.png" width=400> | skalárral való szorzásra vontkozó axiómák
-
+<img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_5.png" width=400> | egyértelmű előállítás lináris kombinációként síkban és térben
