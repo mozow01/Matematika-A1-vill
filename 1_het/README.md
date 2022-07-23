@@ -47,6 +47,6 @@ Qed.
 
 Vektorműveleket, egyértelműségi lemma, a paralelogramma átlói felezik egymást, az egyenes paraméteres vektoregyenlete, skaláris szorzat és tulajdonságai, a háromszög magasságpontjának kifejezése, a vektoriális szorzat és tulajdonságai, a szinusztétel bizonyítása, a paralelepipedon térfogata.
 
-
+|----|----|
 |<img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vektor_1.png" width=400>| jhjh |
 
