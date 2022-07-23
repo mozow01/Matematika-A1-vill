@@ -49,6 +49,6 @@ Vektorműveleket, egyértelműségi lemma, a paralelogramma átlói felezik egym
 
  emlékeztető | fogalom 
 ----|----
-<img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_2.png" width=400>| vektor mint ekvivalenciaosztály, reprezentáns, összeadás, számmal való szorzás
-kjkljkl| kjklj
+<img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_2.png" width=400> | vektor mint ekvivalenciaosztály, reprezentáns, összeadás, számmal való szorzás
+<img src="https://github.com/mozow01/mat_a1/blob/main/1_het/vek_2.png" width=400> | algebrai számolási szabályok (összadásaxiómák)
 
