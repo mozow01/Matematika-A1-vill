@@ -2,9 +2,13 @@
 
 ## Zh információk
 
-1. zh
+1. zh: 2022 okt. 20, cs. 8-10
 
-2. zh
+2. zh: 2022 nov. 14, h. 18-20
+
+pót zh: 2022 dec. 5, h. 18-20 
+
+aláíráspótló vizsga: 2022 dec. 13, k. 
 
 ## Jegyzetek
 
