@@ -48,4 +48,4 @@ jó (4),        ha 24≦**v** és 42≦**n**<51;
 
 jeles (5),     ha 24≦**v** és 51≦**n**
 
-Javítási lehetőség, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése a gyakorlatvezetőnél.
+Javítási kezdeményezése, ha a vizsgát teljesítette: a vizsga újbóli felvétele _vagy_ szóbeli vizsgázás szándékénak jelzése a gyakorlatvezetőnél.
