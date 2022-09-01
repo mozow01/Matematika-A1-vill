@@ -1,4 +1,4 @@
-# Matematika A1 - Analízis BMETE90AX00 vill
+# Matematika A1 - Analízis BMETE90AX00 villamosmérnök
 
 ## Zh információk
 
@@ -19,6 +19,8 @@ Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
 VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a nem PJ jelű feladatsorok)
 
 ## Tárgykövetelmények
+
+
 
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
