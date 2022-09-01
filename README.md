@@ -20,7 +20,7 @@ VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a nem PJ jelű felada
 
 Hasznos még a [MathWiki](http://wiki.math.bme.hu/view/Matematika_A1a_2008), de ez szintén régi.
 
-Saját jegyzet nem lesz, csak emlékeztetők és a korábbiak előadók jegyzeteit lehet használni.
+Saját jegyzet nem lesz, csak emlékeztetők és a korábbi előadók jegyzeteit lehet használni.
 
 ## Tárgykövetelmények
 
