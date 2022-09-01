@@ -1,6 +1,6 @@
 # Matematika A1 - Analízis BMETE90AX00 villamosmérnök
 
-## Zh információk
+## ZH információk
 
 1. zh: 2022 okt. 20, cs. 8-10
 
