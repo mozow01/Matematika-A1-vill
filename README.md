@@ -18,9 +18,13 @@ Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
 
 VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a nem PJ jelű feladatsorok)
 
+Hasznos még a MathWiki, de ez szintén régi.
+
+Saját jegyzet nem lesz, csak 
+
 ## Tárgykövetelmények
 
-https://github.com/mozow01/Matematika-A1-vill/blob/5fbee080c3ac39cda7971a5e6db875dcde688b99/Matematika_A1a%20_%20Anal%C3%ADzis_Moln%C3%A1r.pdf
+[https://github.com/mozow01/Matematika-A1-vill/blob/5fbee080c3ac39cda7971a5e6db875dcde688b99/Matematika_A1a%20_%20Anal%C3%ADzis_Moln%C3%A1r.pdf|ghhgh]
 
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
