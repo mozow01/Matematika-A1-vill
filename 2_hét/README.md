@@ -1,7 +1,0 @@
-# Vektorok koordinátákkal
-
-<img src="https://github.com/mozow01/mat_a1/blob/main/2_hét/vektor_2.png" width=400>
-
-## Témák
-
-Bázis, koordinátarendszer, ortonormált bázis, műveletek koordinátareprezentációja, az egyenes paraméteres egyenletrendszere, a sík egyenlete, térelemek kölcsönös helyzete, elemi egybevágósági transzformációk, távolság, Kronecker-féle delta és Levi-Civita-féle epszilon szimbólumok. 
