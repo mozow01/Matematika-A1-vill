@@ -6,9 +6,9 @@
 
 2. zh: 2022 nov. 14, h. 18-20
 
-pót zh: 2022 dec. 5, h. 18-20 
+pót zh: 2022 dec. 5, h. 18-20, KF51 (AudMax)
 
-aláíráspótló vizsga: 2022 dec. 13, k. 
+aláíráspótló vizsga: 2022 dec. 13, kedd, 12-14 IB028
 
 ## Jegyzetek
 
